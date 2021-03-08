@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProjetAndroid</string>
+    <string name="Home">Home</string>
+    <string name="Notification">Notification</string>
+    <string name="Profil">Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_fragment">Search Fragment</string>
+    <string name="title_activity_afterlog">afterlog</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="textviewobjname">textview</string>
+    <string name="textviewetat">TextViewetat</string>
+    <string name="found">Found</string>
+    <string name="lost">Lost</string>
+    <string name="textviewuser">TextViewuser</string>
+    <string name="textviewlieu">TextViewlieu</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+</resources>
